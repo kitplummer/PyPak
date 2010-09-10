@@ -103,6 +103,5 @@ the author or the PyPak project in any way.
 References
 ----------
 
-[1] BMP5 Transparent Commands Manual, Rev. 9/08, Campbell Scientific Inc., 2008
-[2] PakBus Networking Guide for the CR10X, CR510, CR23X, and CR200 Series
-    and LoggerNet 2.1C, Rev. 3/05, Campbell Scientific Inc., 2004-2005
+* [1] BMP5 Transparent Commands Manual, Rev. 9/08, Campbell Scientific Inc., 2008
+* [2] PakBus Networking Guide for the CR10X, CR510, CR23X, and CR200 Series and LoggerNet 2.1C, Rev. 3/05, Campbell Scientific Inc., 2004-2005
